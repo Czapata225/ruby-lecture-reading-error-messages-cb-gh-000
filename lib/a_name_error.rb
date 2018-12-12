@@ -1,3 +1,6 @@
-"hello world"
+puts "hello world"
 
-hello_world
+do
+   Hello_world
+
+end-of-input
